@@ -1,14 +1,30 @@
-# Documentación del Proyecto
+# About
+## Diego Machorro Lucero
 
-Bienvenido 👋  
-Esta es una **plantilla** basada en [MkDocs](https://www.mkdocs.org/) + [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) para cursos y proyectos.
+<img src="recursos/imgs/idit.jpg" alt="Diagrama del sistema" width="420">
 
 ---
 
-## Empezar rápido (3 pasos)
+## ¿Quién soy?
 
-1. **Edita el nombre del sitio** en `mkdocs.yml`:
-   ```yaml
-   site_name: Documentación del Curso
-   theme:
-     name: material
+- Mi nombre es Diego Machorro, estudiante de ingeniería mecatrónica.
+
+### INTERESES
+
+- Videojuegos.
+
+- Matemáticas.
+
+- Me apasionan las ciencias como la física, ya que encuentro fascinante su enfoque por el descubrimiento y el análisis de todo lo que rodea al ser humano.
+
+--- 
+
+- Algo que me caracteriza es mi resiliencia, que me ha permitido seguir dando todo de mí en malos momentos con los que la vida me ha puesto a prueba.
+  
+- Como espero verme en 10 años es triunfando fuera del país, establecido en una empresa donde pueda trabajar haciendo algo que disfrute, pero sobre todo, que financieramente esté estable.
+
+<img src="recursos/imgs/Yo 2.0.jpeg" alt="Diagrama del sistema" width="420">
+
+### Syllabus
+
+[Syllabus](https://drive.google.com/file/d/1TP4MWufci7xxggRZrP1k8jUZH3l3B075/view?usp=drive_link)
